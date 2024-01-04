@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E93A20CC-024D-4B37-90A0-C90725254496"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52AFC4E1-2956-4BEE-9762-E70DAC9C458A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1-Give Me the Exchange/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A096A9E-580D-4AF6-9C06-6F29BBEAB488"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1-Give Me the Exchange/Model/ExchangeManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "fetchExchangeRate(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A096A9E-580D-4AF6-9C06-6F29BBEAB488 - 6efb6e2233e6db62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1_Give_Me_the_Exchange.ExchangeManager.fetchExchangeRate(for: Swift.String) -&gt; ()"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Model/ExchangeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "0A096A9E-580D-4AF6-9C06-6F29BBEAB488 - 92185b7170416895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Project1_Give_Me_the_Exchange.ExchangeManager.fetchExchangeRate(for: Swift.String) -&gt; ()"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Model/ExchangeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "880">
+               </Location>
+               <Location
+                  uuid = "0A096A9E-580D-4AF6-9C06-6F29BBEAB488 - 92185b7170416895"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Project1_Give_Me_the_Exchange.ExchangeManager.fetchExchangeRate(for: Swift.String) -&gt; ()"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Model/ExchangeManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE5E5858-FCFD-4163-A7C6-0C2A506E025B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project1-Give Me the Exchange/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "changeBaseCurrencyTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE5E5858-FCFD-4163-A7C6-0C2A506E025B - f13daa3a477f6249"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1_Give_Me_the_Exchange.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Project1_Give_Me_the_Exchange.ViewController"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "13268">
+               </Location>
+               <Location
+                  uuid = "AE5E5858-FCFD-4163-A7C6-0C2A506E025B - 74e3486ab98cfd6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1_Give_Me_the_Exchange.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Project1_Give_Me_the_Exchange.ViewController&gt;"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "13244">
+               </Location>
+               <Location
+                  uuid = "AE5E5858-FCFD-4163-A7C6-0C2A506E025B - 26e02e923abc9abb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1_Give_Me_the_Exchange.ViewController.changeBaseCurrencyTapped(__C.UIControl) -&gt; ()"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "AE5E5858-FCFD-4163-A7C6-0C2A506E025B - 117deb170f6d9d7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in Project1_Give_Me_the_Exchange.ViewController.changeBaseCurrencyTapped(__C.UIControl) -&gt; ()"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "AE5E5858-FCFD-4163-A7C6-0C2A506E025B - 26e02e923abc9abb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project1_Give_Me_the_Exchange.ViewController.changeBaseCurrencyTapped(__C.UIControl) -&gt; ()"
+                  moduleName = "Project1-Give Me the Exchange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project1-Give%20Me%20the%20Exchange/Project1-Give%20Me%20the%20Exchange/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
